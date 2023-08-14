@@ -1,4 +1,4 @@
-## Barcode & QR Generator
+## QR Generator
 A simple QR code generator built in **HTML**, **CSS** with **Javascript**.
 
 ### Screenshot
